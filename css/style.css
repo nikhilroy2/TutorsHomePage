@@ -545,7 +545,7 @@ label{
 
 
 .in_font_calibri__{
-  font-family:calibri!important;
+  font-family:serif!important;
 }
 .in_font__18{
   font-size: 18px!important;
@@ -558,24 +558,24 @@ label{
   font-size: 45px!important;
 }
 .in_font_calibri__18{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 18px!important;
 }
 .in_font_calibri__25{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 25px!important;
 }
 
 .in_font_calibri__17{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 17px!important;
 }
 .in_font_calibri__40{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 40px!important;
 }
 .in_font_calibri__20{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 20px!important;
 }
 
@@ -594,18 +594,18 @@ label{
 .in_btn_post__{
   background:#fd9427!important; 
   font-weight:bold!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   border-color: white!important;
 }
 .in_btn__signup{
   background:#015595!important; 
   font-weight:bold!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   border-color: white!important;
 }
 .in_btn__certified{
   background:#015595!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   font-size: 19px!important;
 }
 
@@ -616,7 +616,7 @@ label{
   /* min-width: 400px!important; */
 }
 .in_h4_mode__{
-  font-family:calibri!important; 
+  font-family:serif!important; 
   font-size: 20px!important;
 }
 .in_student_testy__{
@@ -627,26 +627,26 @@ label{
   font-weight: 600!important;
   font-size: 25px!important;
   line-height: 1.2!important;
-  font-family:calibri!important;
+  font-family:serif!important;
 }
 .in_para_swathy__{
   font-size: 16px!important;
   line-height: 1.8!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   font-weight: 410!important;
   color:gray!important;
 }
 .in_para_we__{
   font-size: 11px!important;
   line-height: 1.8!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   font-weight: 600!important;
 }
 .in_list_music__{
   font-size:18px!important;
   display: block!important;
   text-align: center!important;
-  font-family:calibri!important;
+  font-family:serif!important;
 }
 .in_list_music__ .in_list_music__link{
   display: block!important;
@@ -659,7 +659,7 @@ label{
 }
 .in_span_learn__{
   font-size: 33px!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   line-height: 1.0!important;
   text-align: justify!important;
 }
@@ -675,7 +675,7 @@ label{
   padding: 14px;
   background-color: #00A1F2!important;
   color: white!important;
-  font-family:calibri!important;
+  font-family:serif!important;
   font-size: 20px!important;
 }
 .in_container_banner_cha__{
