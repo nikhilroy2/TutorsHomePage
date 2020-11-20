@@ -130,7 +130,7 @@ h6 {
 body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 600!important;
+  
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -405,11 +405,11 @@ body {
   button,
   input[type="button"],
   input[type="reset"],
-  input[type="submit"],
+  input[type="submit"]
   {
     
     font-family: 'Open Sans', sans-serif;
-    font-weight: 600!important;
+    
     outline: none;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -548,7 +548,7 @@ label{
 
 .in_font_calibri__{
   font-family:serif!important;
-  font-weight: 600!important;
+  
 }
 .in_font__18{
   font-size: 18px!important;
@@ -562,28 +562,28 @@ label{
 }
 .in_font_calibri__18{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 18px!important;
 }
 .in_font_calibri__25{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 25px!important;
 }
 
 .in_font_calibri__17{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 17px!important;
 }
 .in_font_calibri__40{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 40px!important;
 }
 .in_font_calibri__20{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 20px!important;
 }
 
@@ -603,20 +603,20 @@ label{
   background:#fd9427!important; 
   font-weight:bold!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   border-color: white!important;
 }
 .in_btn__signup{
   background:#015595!important; 
   font-weight:bold!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   border-color: white!important;
 }
 .in_btn__certified{
   background:#015595!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   font-size: 19px!important;
 }
 
@@ -628,7 +628,7 @@ label{
 }
 .in_h4_mode__{
   font-family:serif!important; 
-  font-weight: 600!important;
+  
   font-size: 20px!important;
 }
 .in_student_testy__{
@@ -636,17 +636,17 @@ label{
   text-indent: 0px!important;
 }
 .in_para_im__{
-  font-weight: 600!important;
+  
   font-size: 25px!important;
   line-height: 1.2!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
 }
 .in_para_swathy__{
   font-size: 16px!important;
   line-height: 1.8!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   font-weight: 410!important;
   color:gray!important;
 }
@@ -654,15 +654,15 @@ label{
   font-size: 11px!important;
   line-height: 1.8!important;
   font-family:serif!important;
-  font-weight: 600!important;
-  font-weight: 600!important;
+  
+  
 }
 .in_list_music__{
   font-size:18px!important;
   display: block!important;
   text-align: center!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
 }
 .in_list_music__ .in_list_music__link{
   display: block!important;
@@ -676,7 +676,7 @@ label{
 .in_span_learn__{
   font-size: 33px!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   line-height: 1.0!important;
   text-align: justify!important;
 }
@@ -693,7 +693,7 @@ label{
   background-color: #00A1F2!important;
   color: white!important;
   font-family:serif!important;
-  font-weight: 600!important;
+  
   font-size: 20px!important;
 }
 .in_container_banner_cha__{
