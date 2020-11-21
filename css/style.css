@@ -419,7 +419,7 @@ body {
     display: block;
     position: relative;
     padding-left: 22px;
-    font-size: 19px;
+    font-size: 17px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -658,7 +658,7 @@ label{
   
 }
 .in_list_music__{
-  font-size:18px!important;
+  font-size:17px!important;
   display: block!important;
   text-align: center!important;
   font-family:serif!important;
